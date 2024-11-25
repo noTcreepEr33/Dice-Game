@@ -1,0 +1,14 @@
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/bin/Debug/net9.0/Dice game
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/bin/Debug/net9.0/Dice game.deps.json
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/bin/Debug/net9.0/Dice game.runtimeconfig.json
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/bin/Debug/net9.0/Dice game.dll
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/bin/Debug/net9.0/Dice game.pdb
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/obj/Debug/net9.0/Dice game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/obj/Debug/net9.0/Dice game.AssemblyInfoInputs.cache
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/obj/Debug/net9.0/Dice game.AssemblyInfo.cs
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/obj/Debug/net9.0/Dice game.csproj.CoreCompileInputs.cache
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/obj/Debug/net9.0/Dice game.dll
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/obj/Debug/net9.0/refint/Dice game.dll
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/obj/Debug/net9.0/Dice game.pdb
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/obj/Debug/net9.0/Dice game.genruntimeconfig.cache
+/Users/ramdarshan/Documents/VS code/c language/Dice game/Dice game/obj/Debug/net9.0/ref/Dice game.dll
